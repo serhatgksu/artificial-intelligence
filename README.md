@@ -1,4 +1,4 @@
-# A picture is worth a thousand words
+# Picture Tells More
 ### Neural Network
    ![known](https://github.com/gustavkkk/artificial-intelligence/blob/master/brain.jpg)
    ![known](https://github.com/gustavkkk/artificial-intelligence/blob/master/cnn.png)
