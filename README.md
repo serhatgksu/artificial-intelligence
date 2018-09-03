@@ -7,6 +7,10 @@
    ![known](https://github.com/gustavkkk/artificial-intelligence/blob/master/cnn03.jpg)
    ![known](https://github.com/gustavkkk/artificial-intelligence/blob/master/rnn01.png)
    ![known](https://github.com/gustavkkk/artificial-intelligence/blob/master/rnn02.jpg)
+   
+   [Deep Reinforcement Learning](http://karpathy.github.io/2016/05/31/rl/)
+   
+   
    ![known](https://github.com/gustavkkk/artificial-intelligence/blob/master/nn-history.jpg)
 
 # Interesting
