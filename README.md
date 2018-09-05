@@ -8,6 +8,7 @@
    ![known](https://github.com/gustavkkk/artificial-intelligence/blob/master/rnn01.png)
    ![known](https://github.com/gustavkkk/artificial-intelligence/blob/master/rnn02.jpg)
    
+   [Alpha-Go](https://www.slideshare.net/ckmarkohchang/alphago-in-depth/7)
    [Deep Reinforcement Learning](http://karpathy.github.io/2016/05/31/rl/)
    
    
