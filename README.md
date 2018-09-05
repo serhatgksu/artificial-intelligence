@@ -17,6 +17,7 @@
 # Critical Factors Affecting Accuracy of Neural Network
    - Network Structure
    - Training DataBase
+   - Learning Rate
    - Loss Function
    - Batch Size
    
