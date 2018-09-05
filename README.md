@@ -13,6 +13,12 @@
    
    ![known](https://github.com/gustavkkk/artificial-intelligence/blob/master/nn-history.jpg)
 
+# Critical Factors Affecting Accuracy of Neural Network
+   - Network Structure
+   - Training DataBase
+   - Loss Function
+   - Batch Size
+   
 # Interesting
 ### Projects with most stars in 2018
    - [30-amazing-machine-learning-projects-for-2018](https://medium.mybridge.co/30-amazing-machine-learning-projects-for-the-past-year-v-2018-b853b8621ac7)
